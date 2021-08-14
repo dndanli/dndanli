@@ -5,10 +5,4 @@
 - 🎃 I’m looking to collaborate with other developers and content creators
 - 📫 Follow me on [Twitter](https://twitter.com/dndanli) 
 
- <div>
-  <a href="https://github.com/dndanli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dndanli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndanli&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
