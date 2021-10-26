@@ -3,8 +3,8 @@
  ### What have you been up to?
 - 🌱 I’m currently learning React and Nodejs
 - 🌱 I’m currently building a portfolio website
- ### Let's talk
-- ⚡ [Twitter](https://twitter.com/dndanli) <br>
+<!--  ### Let's talk
+- ⚡ [Twitter](https://twitter.com/dndanli) <br> -->
 
 <div>
   <a href="https://github.com/dndanli">
