@@ -1,3 +1,3 @@
  
  ### What have you been up to?
-- 🌱 I’m currently learning React and Nodejs, that's about it.
+- 🌱 I’m currently learning React and Spring, that's about it.
