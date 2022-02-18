@@ -34,8 +34,8 @@ I'm also currently looking for a <strong> software engineering</strong> job.
 
 </div>
 <br>
-<br>
-
+<br>  
+<br>  
 
 ## I want to get into:
 
