@@ -28,10 +28,9 @@
 
 <img align="left" alt="MySQL" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
-<img align="left" alt="VsCode" height="40px" width="40px" src="
-https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
+<img align="left" alt="VsCode" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
 
-<img align="left" alt="NeoVim" height="39px" width="40px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png"/>
+<img align="left" alt="NeoVim" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png"/>
 
 </div>
 <br>
