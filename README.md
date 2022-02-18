@@ -1,7 +1,7 @@
 ## I'm a passionate <strong>full-stack developer</strong> that loves to learn new things. 
 
-### If you have any interesting open-source projects to work on don't feel afraid to reach out. 
-### I'm also currently looking for a <strong> software engineering</strong> job.
+If you have any interesting open-source projects to work on don't feel afraid to reach out.   
+I'm also currently looking for a <strong> software engineering</strong> job.
 
 <div>
   <a href="https://github.com/dndanli">
