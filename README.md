@@ -4,8 +4,7 @@ If you have any interesting open-source projects to work on don't feel afraid to
 I'm also currently looking for a <strong> software engineering</strong> job.
 
 <div>
-  <a href="https://github.com/dndanli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dndanli&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndanli&layout=compact&langs_count=7&theme=calm"/>
 </div> 
 
