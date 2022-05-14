@@ -2,7 +2,12 @@
 
 If you have any interesting open-source projects to work on don't feel afraid to reach out.   
 
+<div>
+  <a href="https://github.com/dndanli">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dndanli&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndanli&layout=compact&langs_count=7&theme=rose_pine"/>
+</div> 
 
 ## Languages and Tools
 <img align="left" alt="ReactJs"   height="50px"  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -20,13 +25,7 @@ src="https://user-images.githubusercontent.com/73452073/155069595-b7325ea9-a69f-
 
 <img align="left" alt="Spring Boot" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 
-<img align="left" alt="MySQL" height="50px"  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-
-<img align="left" alt="VsCode" height="50px"  width="50px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
-
-<img align="left" alt="NeoVim" height="50px"  width="50px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png"/>
-  
-
-
+<img align="left" alt="PostgreSQL" height="50px"  width="50px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4"/>
+   
 </div>
 
