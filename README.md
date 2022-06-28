@@ -3,11 +3,7 @@
 If you have any interesting open-source projects to work on don't feel afraid to reach out.   
 
 <div>
-  <a href="https://github.com/dndanli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dndanli&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndanli&layout=compact&langs_count=8&theme=rose_pine&exclude_repo=Student-Registration">
-</div> 
 
 ## Languages and Tools
 <img align="left" alt="ReactJs"   height="50px"  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
